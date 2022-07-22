@@ -5,7 +5,7 @@
 
 <!-- ## Glad to see you here! -->
 
-### I am a full-stack software engineer, passionate about Next JS and working with React, but comfortable working across both stacks. In my free time I enjoy hiking 
+### I am a full-stack software engineer, passionate about Next JS and working with React, but comfortable working across both stacks. In my free time I enjoy hiking and playing sports with friends. 
 
 ## 🛠 Languages and Tools
 
